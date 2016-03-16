@@ -1,9 +1,8 @@
 import javax.swing.JOptionPane;
 /*
 Bailey Spicer
-
 bes2725@email.nvcc.edu
-This program will do something for something and that something is something.
+This program will ask for the number of people and players present, and divide them into groups and teams respectively, based on the numbers of people.
 */
 
 public class IfElse
